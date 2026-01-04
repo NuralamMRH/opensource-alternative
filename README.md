@@ -122,6 +122,6 @@
 <p><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">These tools further expand the free software ecosystem you can use to replace SaaS services, maintaining total sovereignty over your information and reducing external dependencies.</font></font></p>
 <h3><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">More Resources</font></font></h3>
 <ul>
-<li><a href="https://towardsaws.com/opensource-alternatives-to-paid-saas-ce7af189bda3"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Opensource alternatives to paid SaaS</font></font></a></li>
+
 </ul>
 </article>
